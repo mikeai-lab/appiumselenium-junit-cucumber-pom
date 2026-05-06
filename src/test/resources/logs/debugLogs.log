@@ -1,0 +1,76 @@
+22:59:35.641 INFO  AUTOMATION - beforeAll
+22:59:35.645 DEBUG AUTOMATION - Borrando las carpetas de evidencias
+22:59:35.710 INFO  AUTOMATION - before: Ejercicio 16 verificacion de armado rompecabezas
+22:59:35.711 DEBUG AUTOMATION - Inicializando el driver
+22:59:43.858 DEBUG AUTOMATION - Asignando el driver al driver provider
+22:59:43.868 INFO  AUTOMATION - Esperando que la pagina Tarea6MainPagePage cargue
+22:59:44.704 INFO  AUTOMATION - Tarea6MainPagePage s¿ha cargado satisfactoriamente
+22:59:44.704 INFO  AUTOMATION - Haciendo click en boton swipe
+22:59:44.837 INFO  AUTOMATION - Esperando que la pagina Tarea6DragDropPage cargue
+22:59:45.475 INFO  AUTOMATION - Tarea6DragDropPage s¿ha cargado satisfactoriamente
+22:59:45.607 DEBUG AUTOMATION - Moviendo el dedo hacia el elemento origen
+22:59:45.608 DEBUG AUTOMATION - Tocamos la pantalla para arrastrar al elemento origen
+22:59:45.608 DEBUG AUTOMATION - Agregamos una pequeña pausa
+22:59:45.608 DEBUG AUTOMATION - Arrastramos hacia el elemento destino
+22:59:45.608 DEBUG AUTOMATION - Agregamos una pequeña pausa
+22:59:45.608 DEBUG AUTOMATION - Dejamos de tocar la pantalla
+22:59:45.608 DEBUG AUTOMATION - Ejecutamos las acciones
+22:59:50.901 DEBUG AUTOMATION - Moviendo el dedo hacia el elemento origen
+22:59:50.901 DEBUG AUTOMATION - Tocamos la pantalla para arrastrar al elemento origen
+22:59:50.901 DEBUG AUTOMATION - Agregamos una pequeña pausa
+22:59:50.902 DEBUG AUTOMATION - Arrastramos hacia el elemento destino
+22:59:50.902 DEBUG AUTOMATION - Agregamos una pequeña pausa
+22:59:50.902 DEBUG AUTOMATION - Dejamos de tocar la pantalla
+22:59:50.902 DEBUG AUTOMATION - Ejecutamos las acciones
+22:59:56.161 DEBUG AUTOMATION - Moviendo el dedo hacia el elemento origen
+22:59:56.161 DEBUG AUTOMATION - Tocamos la pantalla para arrastrar al elemento origen
+22:59:56.161 DEBUG AUTOMATION - Agregamos una pequeña pausa
+22:59:56.161 DEBUG AUTOMATION - Arrastramos hacia el elemento destino
+22:59:56.161 DEBUG AUTOMATION - Agregamos una pequeña pausa
+22:59:56.161 DEBUG AUTOMATION - Dejamos de tocar la pantalla
+22:59:56.161 DEBUG AUTOMATION - Ejecutamos las acciones
+23:00:01.397 DEBUG AUTOMATION - Moviendo el dedo hacia el elemento origen
+23:00:01.397 DEBUG AUTOMATION - Tocamos la pantalla para arrastrar al elemento origen
+23:00:01.397 DEBUG AUTOMATION - Agregamos una pequeña pausa
+23:00:01.397 DEBUG AUTOMATION - Arrastramos hacia el elemento destino
+23:00:01.397 DEBUG AUTOMATION - Agregamos una pequeña pausa
+23:00:01.397 DEBUG AUTOMATION - Dejamos de tocar la pantalla
+23:00:01.397 DEBUG AUTOMATION - Ejecutamos las acciones
+23:00:06.648 DEBUG AUTOMATION - Moviendo el dedo hacia el elemento origen
+23:00:06.648 DEBUG AUTOMATION - Tocamos la pantalla para arrastrar al elemento origen
+23:00:06.648 DEBUG AUTOMATION - Agregamos una pequeña pausa
+23:00:06.648 DEBUG AUTOMATION - Arrastramos hacia el elemento destino
+23:00:06.648 DEBUG AUTOMATION - Agregamos una pequeña pausa
+23:00:06.648 DEBUG AUTOMATION - Dejamos de tocar la pantalla
+23:00:06.648 DEBUG AUTOMATION - Ejecutamos las acciones
+23:00:11.934 DEBUG AUTOMATION - Moviendo el dedo hacia el elemento origen
+23:00:11.934 DEBUG AUTOMATION - Tocamos la pantalla para arrastrar al elemento origen
+23:00:11.934 DEBUG AUTOMATION - Agregamos una pequeña pausa
+23:00:11.934 DEBUG AUTOMATION - Arrastramos hacia el elemento destino
+23:00:11.934 DEBUG AUTOMATION - Agregamos una pequeña pausa
+23:00:11.934 DEBUG AUTOMATION - Dejamos de tocar la pantalla
+23:00:11.934 DEBUG AUTOMATION - Ejecutamos las acciones
+23:00:17.247 DEBUG AUTOMATION - Moviendo el dedo hacia el elemento origen
+23:00:17.247 DEBUG AUTOMATION - Tocamos la pantalla para arrastrar al elemento origen
+23:00:17.247 DEBUG AUTOMATION - Agregamos una pequeña pausa
+23:00:17.247 DEBUG AUTOMATION - Arrastramos hacia el elemento destino
+23:00:17.247 DEBUG AUTOMATION - Agregamos una pequeña pausa
+23:00:17.247 DEBUG AUTOMATION - Dejamos de tocar la pantalla
+23:00:17.247 DEBUG AUTOMATION - Ejecutamos las acciones
+23:00:22.519 DEBUG AUTOMATION - Moviendo el dedo hacia el elemento origen
+23:00:22.519 DEBUG AUTOMATION - Tocamos la pantalla para arrastrar al elemento origen
+23:00:22.519 DEBUG AUTOMATION - Agregamos una pequeña pausa
+23:00:22.519 DEBUG AUTOMATION - Arrastramos hacia el elemento destino
+23:00:22.519 DEBUG AUTOMATION - Agregamos una pequeña pausa
+23:00:22.519 DEBUG AUTOMATION - Dejamos de tocar la pantalla
+23:00:22.519 DEBUG AUTOMATION - Ejecutamos las acciones
+23:00:27.745 DEBUG AUTOMATION - Moviendo el dedo hacia el elemento origen
+23:00:27.745 DEBUG AUTOMATION - Tocamos la pantalla para arrastrar al elemento origen
+23:00:27.745 DEBUG AUTOMATION - Agregamos una pequeña pausa
+23:00:27.745 DEBUG AUTOMATION - Arrastramos hacia el elemento destino
+23:00:27.745 DEBUG AUTOMATION - Agregamos una pequeña pausa
+23:00:27.745 DEBUG AUTOMATION - Dejamos de tocar la pantalla
+23:00:27.745 DEBUG AUTOMATION - Ejecutamos las acciones
+23:00:38.090 INFO  AUTOMATION - after: Ejercicio 16 verificacion de armado rompecabezas, status: PASSED
+23:00:38.090 DEBUG AUTOMATION - Matando al driver
+23:00:38.469 INFO  AUTOMATION - afterAll
